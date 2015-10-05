@@ -1,2 +1,2 @@
 # CSharpTests
-Just a small Repo for C# stuffl.
+Just a small Repo for C# stuff.
