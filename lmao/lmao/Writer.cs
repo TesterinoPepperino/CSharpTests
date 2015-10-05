@@ -14,6 +14,9 @@ namespace lmao
 			this.text = text + "aay lmao";
 			return text;
 		}
+		public override string ToString() {
+		return this.modifytext();
+		}
 	}
 }
 
