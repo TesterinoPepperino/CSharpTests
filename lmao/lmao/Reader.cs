@@ -8,6 +8,7 @@ namespace lmao
 		public Reader ()
 		{
 			text = Console.ReadLine ();
+			string unneccesary = "It's me";
 		}
 	}
 }
