@@ -11,13 +11,10 @@ namespace lmao
 		}
 			
 		private string modifytext() {
-			this.text = text + "aay lmao";
+			this.text = text + "aay lmao Lamar Davis";
 			return text;
 		}
 
-		private string extraMethod()
-		{
-		}
 
 		public override string ToString() {
 		return this.modifytext();
