@@ -10,6 +10,7 @@ namespace lmao
 			Console.WriteLine (r.text);
 			Writer w = new Writer("what's up?");
 			Console.WriteLine (w.ToString());
+			Console.WriteLine("Warning this text is important"):
 			Console.ReadLine();
 		}
 	}
